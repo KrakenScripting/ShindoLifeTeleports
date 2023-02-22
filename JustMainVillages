@@ -353,7 +353,7 @@ if game.PlaceId ==  4601350214 then
       if input.KeyCode == Enum.KeyCode.Four then
    loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/arenadunes/main/dunes",true))();
    end
-   end)                                                  --arena   
+   end)                                          --arena   
 
 
 
